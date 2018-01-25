@@ -1,18 +1,18 @@
 # Site Settings
-title: My Resume
+title: BHOI AMLAAN
 url: 'http://abhoi.github.io'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
-#style: styles-3
+#style: styles-2
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Amlaan Bhoi
+tagline: CS Graduate Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
