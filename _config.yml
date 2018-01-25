@@ -1,23 +1,21 @@
 # Site Settings
-title: BHOI AMLAAN
+title: AMLAAN BHOI
 url: 'http://abhoi.github.io'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-style: styles-3
+#style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 #Profile information
 name: Amlaan Bhoi
 tagline: CS Graduate Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Grad student @UIC MSCS '19. Computer vision, statistical data analysis, data science. 
+Occasional iOS development (Swift). Former intern @Reliance and @osscube.'
 
 #sidebar links
 email: hello@webjeda.com
